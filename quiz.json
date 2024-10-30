@@ -249,16 +249,16 @@
     { "id": 41,
       "question": "What is your supply chain strategy?",
       "owner": "Ben",
-      "answer": "41 TBD"
+      "answer": "41 AAA"
     },
     { "id": 42,
       "question":"What is your backup plan if your supply chain has disruptions?",
       "owner":"Ben",
-      "answer": "42 TBD"
+      "answer": "42 AAA"
     },
     {"id": 43, 
       "question": "How will you manage 3PL?", 
       "owner":"Ben", 
-      "answer":"43 TBD"}
+      "answer":"43 AAA"}
   ]
 }
