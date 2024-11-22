@@ -4,13 +4,13 @@
       "id": 0,
       "question": "Why do you want to be part of YC?",
       "owner": "Laura",
-      "answer": "0 For the money and status"
+      "answer": "For mentorship and education. We don’t know what we don’t know and feel the guidance Y Combinator would provide would enable us to concentrate on building the product and the company while avoiding costly mistake"
     },
     {
       "id": 1,
       "question": "Why is your product priced the way it is?",
-      "owner": "Suze",
-      "answer": "1 We look at our margin goals and what we think the market will bear based on competitor pricing"
+      "owner": "Laura",
+      "answer": "We look at our margin goals and what we think the market will bear based on competitor pricing"
     },
     {
       "id": 2,
@@ -272,17 +272,13 @@
       "owner":"Laura",
       "answer":"All major brands based in the USA are using a decades old model of having their pattern makers and technical designers based in the USA. This model requires the prototyping process to take months instead of days due to the back and forth between Asia and the USA and the need to wait for the prototypes to be shipped back and forth. The most talented patternmakers and technical designers are based at the factories, in our case, in Asia. Keeping product development close to the factories means we can turn around prototypes in days not months."
     },
-        {"id":46,
-      "question":"Why do you want to be part of YC?",
-      "owner":"Laura",
-      "answer":"For mentorship and education. We don’t know what we don’t know and feel the guidance Y Combinator would provide would enable us to concentrate on building the product and the company while avoiding costly mistake"
-    },
-    {"id":47,
+
+    {"id":46,
       "question":"Why do you have so little equity",
       "owner":"Ben",
       "answer":"47 TBD"
     },
-    {"id":48,
+    {"id":47,
       "question":"Where did your $25MM number come from",
       "owner":"Ben",
       "answer":"48 TBD"
