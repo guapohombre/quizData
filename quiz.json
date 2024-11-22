@@ -16,7 +16,7 @@
       "id": 2,
       "question": "If your startup succeeds, what additional areas could you expand into?",
       "owner": "Laura",
-      "answer": "2 All women's apparel that requires breast support and shapewear"
+      "answer": "All women's apparel that requires breast support and shapewear"
     },
     {
       "id": 3,
@@ -63,7 +63,7 @@
     {
       "id": 10,
       "question": "How will you make money?",
-      "owner": "Suze",
+      "owner": "Laura",
       "answer": "10"
     },
     {
@@ -93,7 +93,7 @@
     {
       "id": 15,
       "question": "Who would be your next hire?",
-      "owner": "Tom",
+      "owner": "Laura",
       "answer": "Someone who is excited to share our product with the world (marketing) and is willing to think outside the box"
     },
     {
@@ -135,7 +135,7 @@
     {
       "id": 22,
       "question": "What is your burn rate?",
-      "owner": "Suze",
+      "owner": "Laura",
       "answer": "22 TBD"
     },
     {
@@ -177,8 +177,8 @@
     {
       "id": 29,
       "question": "What else have you created together?",
-      "owner": "Tom",
-      "answer": "Laura and I collaborated when I build the BOM web application at Nike.  She was my go-to person for ideas, feedback, and testing"
+      "owner": "Laura",
+      "answer": "TAD"
     },
     {
       "id": 30,
@@ -207,7 +207,7 @@
     {
       "id": 34,
       "question": "What products are you going to build first?",
-      "owner": "Ben",
+      "owner": "Laura",
       "answer": "We are going to start with the products that most resonated with consumers in the wear test"
     },
     {
@@ -219,7 +219,7 @@
     {
       "id": 36,
       "question": "What is your user growth rate?",
-      "owner": "Tom",
+      "owner": "Laura",
       "answer": "We don't know yet.  We hope our products will have strong word-of-mouth, with each customer strongly recommending to several of her friends.  That is, our intention is to generate viral growth via exceptional customer satisfaction"
     },
     {
@@ -276,7 +276,18 @@
       "question":"Why do you want to be part of YC?",
       "owner":"Laura",
       "answer":"For mentorship and education. We don’t know what we don’t know and feel the guidance Y Combinator would provide would enable us to concentrate on building the product and the company while avoiding costly mistake"
+    },
+    {"id":47,
+      "question":"Why do you have so little equity",
+      "owner":"Ben",
+      "answer":"47 TBD"
+    },
+    {"id":48,
+      "question":"Where did your $25MM number come from",
+      "owner":"Ben",
+      "answer":"48 TBD"
     }
+      
     
   ]
 }
